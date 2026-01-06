@@ -13,6 +13,7 @@ Build data pipelines and backend logic using Python
 Analyze, clean, and visualize data for insights
 Work with SQL, APIs, and structured datasets
 Learn cloud and data engineering concepts step by step
+
 🧠 Tech Stack
 
 Languages: Python, SQL
@@ -20,11 +21,13 @@ Data: Pandas, NumPy, Django
 Databases: MySQL, PostgreSQL
 Tools: Git, GitHub, APIs
 Currently learning: Data Engineering pipelines & cloud fundamentals
+
 📌 Projects
 
 Data analysis and visualization
 API-based data collection
 Beginner-friendly data engineering workflows
+
 More projects coming soon 🚧
 
 ⚡ Fun Facts
