@@ -1,7 +1,7 @@
 Hi there 👋
 
 I'm Thato 
-🎓 BSc IT student graduating in 2027
+🎓 BSc IT student graduating in 2027 <br>
 📊 Aspiring Data Engineer & Data Analyst
 🐍 Python Developer
 
