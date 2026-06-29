@@ -26,7 +26,7 @@ Currently learning: Data Engineering pipelines & cloud fundamentals <br>
 
 Data analysis and visualization <br>
 API-based data collection <br>
-Beginner-friendly data engineering workflows <br>
+Data engineering workflows <br>
 
 More projects coming soon 🚧 <br>
 
