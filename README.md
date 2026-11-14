@@ -16,9 +16,10 @@ Learn cloud and data engineering concepts step by step <br>
 
 🧠 Tech Stack <br>
 
-Languages: Python, SQL <br>
+Languages: Python, SQL, C# <br>
+Frameworks: Django, ASP.Net Core MVC
 Data: Pandas, NumPy, Django <br>
-Databases: MySQL, PostgreSQL <br>
+Databases: MySQL, PostgreSQL, SSMS <br>
 Tools: Git, GitHub, APIs <br>
 Currently learning: Data Engineering pipelines & cloud fundamentals <br>
 
@@ -27,12 +28,13 @@ Currently learning: Data Engineering pipelines & cloud fundamentals <br>
 Data analysis and visualization <br>
 API-based data collection <br>
 Data engineering workflows <br>
+Smart pantry manager mobile application built with Java & XML <br>
+StayBnB, an application that clones AirBnB's functionality <br>
 
 More projects coming soon 🚧 <br>
 
 ⚡ Fun Facts <br>
 
-Attack on titan & Demon slayer are my favourite animes <br>
 Big fan of Formula 1 <br>
 Always curious about how systems work behind the scenes from cars to tech <br>
 
