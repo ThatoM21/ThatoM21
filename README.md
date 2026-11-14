@@ -25,7 +25,7 @@ Currently learning: Data Engineering pipelines & cloud fundamentals <br>
 
 📌 Projects <br>
 
-Data analysis and visualization <br>
+Data analysis and visualization with PowerBI<br>
 API-based data collection <br>
 Data engineering workflows <br>
 Smart pantry manager mobile application built with Java & XML <br>
